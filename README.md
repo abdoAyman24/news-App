@@ -12,3 +12,6 @@ News app by flutter and Getx PageController
 
 # - [🆗] science
 |<img src="snapshot/science.jpg" width="500">
+
+## Dependencies 💤
+ -  `get: ^4.3.8`
